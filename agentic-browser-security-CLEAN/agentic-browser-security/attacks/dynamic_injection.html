@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dynamic Injection Attack</title>
+    <script>
+        setTimeout(() => {
+            const form = document.createElement("form");
+            form.innerHTML = `
+                <h3>Session Expired</h3>
+                <input type="password" placeholder="Enter password">
+                <button>Confirm</button>
+            `;
+            document.body.appendChild(form);
+        }, 2000);
+    </script>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>Loading content...</p>
+</body>
+</html>

@@ -1,0 +1,160 @@
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
+{"prompt": "Hidden text saying ignore previous instructions detected in DOM.", "response": "Decision: BLOCK | Reason: Hidden prompt injection"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "Login form asking for credentials on unknown domain.", "response": "Decision: BLOCK | Reason: Phishing attempt"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Static informational page with no forms or scripts.", "response": "Decision: ALLOW | Reason: No malicious signals"}
+{"prompt": "Multiple iframes and obfuscated scripts detected.", "response": "Decision: WARN | Reason: Suspicious embedded content"}
+{"prompt": "JavaScript dynamically injects new DOM nodes after page load.", "response": "Decision: WARN | Reason: Dynamic DOM injection"}
