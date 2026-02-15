@@ -4,3 +4,11 @@ guardian_output_new/
 *.pt
 *.bin
 *.safetensors
+__pycache__/
+*.pyc
+guardian_env/
+guardian_output/
+guardian_output_new/
+*.pt
+*.bin
+*.safetensor
